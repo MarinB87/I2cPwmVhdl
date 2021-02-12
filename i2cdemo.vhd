@@ -4,6 +4,9 @@
 --# Project      : ic2 slave + Single port RAM 256 * 8 (ALTERA compatible)
 --# Engineer     : Philippe THIRION
 --# Modification History
+--# Modified by Marin Basic
+--# This is now a top level module for I2C controlled PWM
+--# Extension for PWM is added
 --###############################
 
 library IEEE;

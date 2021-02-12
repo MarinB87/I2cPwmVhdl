@@ -21,6 +21,9 @@
 --     Transistion between duty cycles always starts at center of pulse to avoid
 --     anomalies in pulse shapes
 --    
+--   Modifications
+--   Modified by Marin Basic. Number of PWM channels is extended to 64. Some
+--   feautures such as rest line are removed.
 --------------------------------------------------------------------------------
 
 LIBRARY ieee;

@@ -4,6 +4,8 @@
 --# Project      : VHDL RAM model
 --# Engineer     : Philippe THIRION
 --# Modification History
+--# Modified by Marin Basic
+--# PWM component supporting 64 outputs is added
 --###############################
 
 library IEEE;
